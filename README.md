@@ -22,4 +22,4 @@ Currently I am learning more about Prolog and logic solvers.
 
 I also believe that open source is the backbone of the tech industry. As such I try my best to contribute to open source projects when I can.
 
-1. [iCal Library](https://elixirforum.com/t/ical-an-icalendar-library/74370/17) I managed to collaborate with [Aaron Seigo](https://github.com/aseigo) to implement functionality around getting the next alarms for events and todos. THis was important for the version 2.0 release of the iCal library.
+1. [iCal Library](https://elixirforum.com/t/ical-an-icalendar-library/74370/17) I managed to collaborate with [Aaron Seigo](https://github.com/aseigo) to implement functionality around getting the next alarms for events and todos. This was important for the version 2.0 release of the iCal library.
