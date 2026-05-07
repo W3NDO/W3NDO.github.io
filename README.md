@@ -1,8 +1,10 @@
 # Hi There!
 
-I am Patrick Wendo. An Elixir alchemist and Rubyist. 
+I am Patrick Wendo. A software developer profecient in Javascript, Elixir, Ruby and Python. 
 
 Currently I am learning more about Prolog and logic solvers. 
+
+I am open to new opportunities!! Just send me an email at [here](mailto:wendonyang+github@gmail.com)
 
 # You can contact me here
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/w3ndo_) 
